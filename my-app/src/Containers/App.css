@@ -9,7 +9,9 @@
   color: white;
   font-family: 'Rock Salt', cursive;
 }
-
+.catface {
+	box-shadow: 4px 4px 5px #888888
+}
 .cardrow {
   display: flex;
   flex-direction: row;
@@ -40,6 +42,8 @@
   max-width: 85%;
   border-radius: 5%;
   padding-top: 3px;
+  transition: all 1s;
+	box-shadow: 4px 4px 5px #888888;
 }
 
 .photo:hover {

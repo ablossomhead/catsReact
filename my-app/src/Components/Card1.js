@@ -6,7 +6,7 @@ return (
     <div>
         <article className="mw5 h10 center bg-white br4 pa3 mv3 ba b--black-20">
             <div>
-                <img alt='catface' src={athena} className="br-100 h4 w4 dib" title="Athena" ></img>
+                <img alt='catface' src={athena} className="catface br-100 h4 w4 dib" title="Athena" ></img>
                 <h1 className="stormy">Athena</h1>
                 <hr className="mw3 bb bw1 b--black-10"></hr>
             </div>

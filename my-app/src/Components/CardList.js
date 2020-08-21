@@ -15,14 +15,19 @@ const CardList = () => {
                     <div className="cardcol"><Card1 /></div>
                 </div>
                 <div className="cardrow">
-                    <div className="cardcol"><Card3 /></div>
-                        <div className="dblcardcol">
-                            <div className="cardcol"><Card3a /></div>
-                            <div className="cardcol"><Card3b /></div>
-                        </div>
+                    <div className="dblcardcol">
+                        <div className="cardcol"><Card3 /></div>
+                        <div className="cardcol"><Card4 /></div>
+                    </div>
+                    <div className="dblcardcol">
+                        <div className="cardcol"><Card3a /></div>
+                        <div className="cardcol"><Card3b /></div>
+                        <div className="cardcol"><Card3a /></div>
+                        <div className="cardcol"><Card3b /></div>
+                    </div>
                 </div>
                 <div className="cardrow">
-                    <div className="cardcol"><Card4 /></div>
+
                 </div>
             </div>
         );

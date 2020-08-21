@@ -1,5 +1,5 @@
 import React from 'react';
-import two from './assets/two.jpg';
+import athenaplays from './assets/athenaplays.gif';
 
 
 const Card3b = () => {
@@ -7,8 +7,8 @@ return (
     <div>
         <article className="mw6 h10center bg-white br4 pa3 ba b--black-20">
             <div>
-                <img alt="two" src={two} className="photo" title="two cats"></img>
-                <h1 className="stormy">Two cute kits</h1>
+                <img alt="athenaplaying" src={athenaplays} className="photo" title="athena playing"></img>
+                <h1 className="stormy">Athena</h1>
             </div>
         </article>
     </div>
