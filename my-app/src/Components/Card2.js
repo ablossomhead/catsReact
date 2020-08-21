@@ -13,7 +13,7 @@ return (
             </div>
             <p className="lh-copy measure center f6 black-70">
                 <div>Playful with a mischievous streak.</div>
-                <div>He loves to get belly scratches,</div>
+                <div>He loves belly scratches,</div>
                 <div>playing with toys, and</div>
                 <div>catching lizards.</div>
             </p>
