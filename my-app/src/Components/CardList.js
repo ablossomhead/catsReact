@@ -4,6 +4,8 @@ import Card2 from './Card2';
 import Card3 from './Card3';
 import Card3a from './Card3a';
 import Card3b from './Card3b';
+import Card3c from './Card3c';
+import Card3d from './Card3d';
 import Card4 from './Card4';
 
 
@@ -22,8 +24,8 @@ const CardList = () => {
                     <div className="dblcardcol">
                         <div className="cardcol"><Card3a /></div>
                         <div className="cardcol"><Card3b /></div>
-                        <div className="cardcol"><Card3a /></div>
-                        <div className="cardcol"><Card3b /></div>
+                        <div className="cardcol"><Card3c /></div>
+                        <div className="cardcol"><Card3d /></div>
                     </div>
                 </div>
                 <div className="cardrow">
